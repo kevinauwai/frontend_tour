@@ -21,5 +21,6 @@
     1.https://uicolors.app/generate/4f959d
     2.https://pinetools.com/greyscale-desaturate-color
     3.https://fonts.google.com/selection/embed
-
+# step 5 create css
+    1.create css and modified navbar css
 
