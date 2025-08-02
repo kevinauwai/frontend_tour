@@ -4,4 +4,7 @@ document.addEventListener("DOMContentLoaded",()=>{
      toggleButton.addEventListener("click",()=>{
         mobilemenu.classList.toggle("active");
      });
+     const date =document.getElementById("date");
+     date.innerHTML=new Date().getFullYear();
+     
 });
